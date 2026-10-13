@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+backend/.venv/
+backend/.venv_test/
+.venv/
+.pytest_cache/
+
+# Environment / secrets
+.env
+!.env.example
+
+# Frontend
+node_modules/
+frontend/dist/
+
+# Demo output
+demo/logs/
+
+# Docs and markdown (README stays tracked)
+docs/
+*.md
+!README.md
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
