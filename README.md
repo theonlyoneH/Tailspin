@@ -81,6 +81,16 @@ You run **two programs side by side**, each in its own terminal:
 | 🐍 | **Backend** (FastAPI) | `http://127.0.0.1:8000` |
 | ⚛️ | **Frontend** (React) | **`http://localhost:5173`** ← open this |
 
+### 0️⃣ Get the code
+
+```bash
+git clone https://github.com/theonlyoneH/Tailspin.git
+cd Tailspin/live-log-viewer
+```
+
+> [!NOTE]
+> The app lives in the [`live-log-viewer/`](live-log-viewer/) folder. Every path and command below is relative to it.
+
 ### 1️⃣ Tell it where your logs live
 
 ```bash
